@@ -155,7 +155,7 @@ function Home({ changeTheme, theme, sortedChains }) {
               <Typography className={classes.subTitle}>
                 ChainMap is a list of EVM networks. Users can use the information to connect their wallets and Web3
                 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain. ChainMap has been deployed, secured and will be actively maintained by Cybersecurity Engineer-
-                 <a href="https://twitter.com/brian_obilo" target="_blank"> TheMind </a>
+                 <a href="https://twitter.com/brian_obilo" target="_blank"> TheMind. </a>
               </Typography>
               <Button
                 size="large"
