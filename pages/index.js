@@ -187,7 +187,7 @@ function Home({ changeTheme, theme, sortedChains }) {
                   </Typography>
                 </a>
                 <Typography variant="subtitle1" className={classes.version}>
-                  Version 1.0.7
+                  Version 1.0.0
                 </Typography>
               </div>
             </div>
