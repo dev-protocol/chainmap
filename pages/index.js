@@ -138,7 +138,7 @@ function Home({ changeTheme, theme, sortedChains }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Chainlist</title>
+        <title>Chainslist</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -153,7 +153,7 @@ function Home({ changeTheme, theme, sortedChains }) {
                 Helping users connect to EVM powered networks
               </Typography>
               <Typography className={classes.subTitle}>
-                Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3
+                Chainslist is a list of EVM networks. Users can use the information to connect their wallets and Web3
                 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
               </Typography>
               <Button
@@ -166,6 +166,12 @@ function Home({ changeTheme, theme, sortedChains }) {
               >
                 <Typography className={classes.buttonLabel}>Add Your Network</Typography>
               </Button>
+              <p>
+              <Typography className={classes.subTitle}>
+                Chainslist has been deployed, secured and actively maintained by TheMind
+              </Typography>
+
+
               <div className={classes.socials}>
                 <a
                   className={`${classes.socialButton}`}
