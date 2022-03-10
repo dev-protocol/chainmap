@@ -172,7 +172,7 @@ function Home({ changeTheme, theme, sortedChains }) {
               <div className={classes.socials}>
                 <a
                   className={`${classes.socialButton}`}
-                  href="https://github.com/BrianObilo/chainlist-1"
+                  href="https://github.com/BrianObilo/chainmap"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
