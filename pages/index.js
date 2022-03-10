@@ -147,7 +147,7 @@ function Home({ changeTheme, theme, sortedChains }) {
           <div className={classes.copyContainer}>
             <div className={classes.copyCentered}>
               <Typography variant="h1" className={classes.chainListSpacing}>
-                <span className={classes.helpingUnderline}>Chainlist</span>
+                <span className={classes.helpingUnderline}>Chainslist</span>
               </Typography>
               <Typography variant="h2" className={classes.helpingParagraph}>
                 Helping users connect to EVM powered networks
