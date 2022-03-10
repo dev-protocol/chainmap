@@ -155,6 +155,8 @@ function Home({ changeTheme, theme, sortedChains }) {
               <Typography className={classes.subTitle}>
                 Chainslist is a list of EVM networks. Users can use the information to connect their wallets and Web3
                 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
+                
+                <p>Chainslist has been deployed, secured and actively maintained by TheMind</p>
               </Typography>
               <Button
                 size="large"
@@ -167,13 +169,6 @@ function Home({ changeTheme, theme, sortedChains }) {
                 <Typography className={classes.buttonLabel}>Add Your Network</Typography>
           
               </Button>
-              <p>
-              </p>
-          
-              <Typography className={classes.subTitle}>
-                Chainslist has been deployed, secured and actively maintained by TheMind
-              </Typography>
-
 
               <div className={classes.socials}>
                 <a
