@@ -165,10 +165,11 @@ function Home({ changeTheme, theme, sortedChains }) {
                 endIcon={<AddIcon />}
               >
                 <Typography className={classes.buttonLabel}>Add Your Network</Typography>
+          
               </Button>
               <p>
-              <p>
-              <p>
+              </p>
+          
               <Typography className={classes.subTitle}>
                 Chainslist has been deployed, secured and actively maintained by TheMind
               </Typography>
