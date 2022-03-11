@@ -11,7 +11,7 @@ const theme = createTheme({
       paper: '#2B2E3C'
     },
     primary: {
-      main: '#2F80ED',
+      main: '#2F80ED', 
     },
     type: 'dark',
   },
