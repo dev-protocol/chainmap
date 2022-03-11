@@ -26,7 +26,7 @@ const coreTheme = {
       'BlinkMacSystemFont',
       '"Segoe UI"',
       'Roboto',
-      '"Helvetica Neue"',
+      '"Helvetica Neue"', 
       'sans-serif',
       '"Apple Color Emoji"',
       '"Segoe UI Emoji"',
